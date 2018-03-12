@@ -1,0 +1,5 @@
+ionic start App_Name blank
+
+cd ./App_Name
+
+ionic serve -l
